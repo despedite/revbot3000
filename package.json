@@ -1,0 +1,15 @@
+{
+  "name": "revbot3000",
+  "version": "0.0.1",
+  "description": "A bot that quotes Rev22360 once every hour!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "Hello, World!"
+  },
+  "author": "Endo",
+  "license": "Unlicense",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "opusscript": "0.0.6"
+  }
+}
